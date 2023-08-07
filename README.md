@@ -1,4 +1,4 @@
-# Performance_Testing (Here Using Jmeter for check rokomari.com and generate HTML report.Also use reqres.in for finding SingleUser path and generate HTML report by using Jmeter)
+# Performance_Testing (Here used Jmeter for check rokomari.com and generate HTML report.Also used Jmeter and reqres.in website for finding SingleUser path and generate HTML report)
 ![Screenshot (352)](https://github.com/sufiurrhaman/Performance_Testing/assets/90712313/11607590-f8dd-4b47-b9b7-e178b39bc243)
 ![Screenshot (353)](https://github.com/sufiurrhaman/Performance_Testing/assets/90712313/0095e162-45c4-4449-a9c7-623a66180a83)
 ![Screenshot (354)](https://github.com/sufiurrhaman/Performance_Testing/assets/90712313/3db1ebc6-5a29-4976-864d-a35da27e385d)
